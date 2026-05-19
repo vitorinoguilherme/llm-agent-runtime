@@ -1,0 +1,28 @@
+# Node
+ai-runtime/node_modules
+ai-runtime/dist
+ai-runtime/.turbo
+ai-runtime/.next
+
+# Runtime cache
+ai-runtime/cache/context
+ai-runtime/cache/embeddings
+
+# Logs temporários
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+
+# Env
+.env
+.env.*
+
+# Generated
+coverage
